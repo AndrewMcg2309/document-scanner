@@ -13,3 +13,4 @@ Use your new-found image processing skills to restore these light-damaged photos
 Refer to the General Assignment Guidelines to maximise your marks. Submit the link to your GitHub repository here.
 
 As with anything you submit, this must be your own work and as such, it must not be similar to any other work, including other students' submissions, previous years' submissions or material found online. Any excessively similar submission will receive a zero mark.
+.
